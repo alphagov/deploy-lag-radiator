@@ -93,6 +93,10 @@
     "repo": "performanceplatform-notifier"
   },
   {
+    "userName": "alphagov",
+    "repo": "pp-deploy-lag-radiator"
+  },
+  {
     "baseUrl": "https://github.gds/api/v3/repos",
     "userName": "gds",
     "repo": "pp-deployment"
